@@ -1,7 +1,7 @@
 # AI Chatbot
 This is my Artificial Intelligence Assignment.
 
-In this Assignment I build an AI contextual Chatbot using the tensorflow and tflearn library
+In this Assignment I built an AI contextual Chatbot using the tensorflow and tflearn library
 I used the concepts of Natural Language Processing and Neural Network to build it.
 The intents file that we used for training is made by us.
 
